@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/BurntSushi/bstr/commit/134195be38c7c9a4887980fd0f6f8bae042dd91e",
       "git:hexsha": "134195be38c7c9a4887980fd0f6f8bae042dd91e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.13.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.13.1",
+      "repolex:parsedAt": "2026-11-09T17:41:06.672375+00:00"
     },
     {
       "@id": "https://repolex.ai/r/BurntSushi/bstr/commit/c64b3a812b117c31ec6329c2813867ec8c58d200",
