@@ -217,6 +217,79 @@
       ],
       "ast": [
         "aggregate/ast/a90f36f0de8c984662c49fb5742027ca24a88cbb/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/a90f36f0de8c984662c49fb5742027ca24a88cbb.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "memchr",
+          "ecosystem": "CARGO",
+          "version": "2.7.1",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "memchr",
+          "githubCommit": "31c1e7911e45f17db761aa1f152896d92d782587",
+          "githubTag": "2.7.1",
+          "githubUrl": "https://github.com/BurntSushi/memchr",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0.85",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "bb99b31eb0a55393101f9c80cd959b3a739ad70f",
+          "githubTag": "v1.0.85",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "regex-automata",
+          "ecosystem": "CARGO",
+          "version": "0.4.1",
+          "githubOrg": "rust-lang",
+          "githubRepo": "regex",
+          "githubUrl": "https://github.com/rust-lang/regex",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "quickcheck",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "quickcheck",
+          "githubUrl": "https://github.com/BurntSushi/quickcheck",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "ucd-parse",
+          "ecosystem": "CARGO",
+          "version": "0.1.3",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "ucd-generate",
+          "githubUrl": "https://github.com/BurntSushi/ucd-generate",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "unicode-segmentation",
+          "ecosystem": "CARGO",
+          "version": "1.2.1",
+          "githubOrg": "unicode-rs",
+          "githubRepo": "unicode-segmentation",
+          "githubUrl": "https://github.com/unicode-rs/unicode-segmentation",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "criterion",
+          "ecosystem": "CARGO",
+          "version": "0.3.6",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubCommit": "f9ccd05caad4d068679074c3bc33c3f712ff2343",
+          "githubTag": "0.3.6",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/criterion-0.3.6/src/bencher.rs"
+        }
       ]
     }
   ],
